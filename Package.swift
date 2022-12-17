@@ -10,5 +10,6 @@
 import PackageDescription
 
 let package = Package(
-    name: "Transactions"
+    name: "Transactions",
+    swiftLanguageVersions: [Int]? = nil
 )
