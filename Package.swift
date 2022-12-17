@@ -6,7 +6,7 @@
 //  Copyright © 2017 Anton Bronnikov. All rights reserved.
 //
 
-// swift-tools-version:5.0
+// swift-tools-version:4.2
 import PackageDescription
 
 let package = Package(
