@@ -6,9 +6,8 @@
 //  Copyright © 2017 Anton Bronnikov. All rights reserved.
 //
 
-import PackageDescription
-
 // swift-tools-version:5.0
+import PackageDescription
 
 let package = Package(
     name: "Transactions"
